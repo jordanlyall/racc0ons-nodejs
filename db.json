@@ -1,0 +1,3303 @@
+[
+ {
+   "id": 0,
+   "name": "raCC0ons #0",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons0.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 1,
+   "name": "raCC0ons #1",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons1.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 2,
+   "name": "raCC0ons #2",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons2.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "rocks",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 3,
+   "name": "raCC0ons #3",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons3.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "log",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 4,
+   "name": "raCC0ons #4",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons4.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 5,
+   "name": "raCC0ons #5",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons5.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 6,
+   "name": "raCC0ons #6",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons6.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "selfie",
+    },
+    {
+      "trait_type": "environment",
+      "value": "human",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 7,
+   "name": "raCC0ons #7",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons7.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 8,
+   "name": "raCC0ons #8",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons8.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "snow",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 9,
+   "name": "raCC0ons #9",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons9.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 10,
+   "name": "raCC0ons #10",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons10.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "tongue out",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 11,
+   "name": "raCC0ons #11",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons11.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 12,
+   "name": "raCC0ons #12",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons12.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 13,
+   "name": "raCC0ons #13",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons13.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 14,
+   "name": "raCC0ons #14",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons14.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 15,
+   "name": "raCC0ons #15",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons15.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 16,
+   "name": "raCC0ons #16",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons16.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 17,
+   "name": "raCC0ons #17",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons17.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 18,
+   "name": "raCC0ons #18",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons18.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 19,
+   "name": "raCC0ons #19",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons19.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 20,
+   "name": "raCC0ons #20",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons20.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "log",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 21,
+   "name": "raCC0ons #21",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons21.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "tongue out",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "rocks",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 22,
+   "name": "raCC0ons #22",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons22.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 23,
+   "name": "raCC0ons #23",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons23.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "tongue out",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 24,
+   "name": "raCC0ons #24",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons24.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 25,
+   "name": "raCC0ons #25",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons25.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "human",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 26,
+   "name": "raCC0ons #26",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons26.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "upright",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 27,
+   "name": "raCC0ons #27",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons27.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes":
+   [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "baby"
+   }
+ ]
+},
+ {
+   "id": 28,
+   "name": "raCC0ons #28",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons28.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 29,
+   "name": "raCC0ons #29",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons29.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 30,
+   "name": "raCC0ons #30",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons30.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 31,
+   "name": "raCC0ons #31",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons31.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 32,
+   "name": "raCC0ons #32",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons32.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 33,
+   "name": "raCC0ons #33",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons33.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 34,
+   "name": "raCC0ons #34",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons34.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 35,
+   "name": "raCC0ons #35",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons35.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "rocks",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 36,
+   "name": "raCC0ons #36",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons36.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "tongue out",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 37,
+   "name": "raCC0ons #37",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons37.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 38,
+   "name": "raCC0ons #38",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons38.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 39,
+   "name": "raCC0ons #39",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons39.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 40,
+   "name": "raCC0ons #40",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons40.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 41,
+   "name": "raCC0ons #41",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons41.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "tongue out",
+    },
+    {
+      "trait_type": "type",
+      "value": "red panda",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 42,
+   "name": "raCC0ons #42",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons42.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 43,
+   "name": "raCC0ons #43",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons43.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 44,
+   "name": "raCC0ons #44",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons44.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "large",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 45,
+   "name": "raCC0ons #45",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons45.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "road",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 46,
+   "name": "raCC0ons #46",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons46.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 47,
+   "name": "raCC0ons #47",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons47.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 48,
+   "name": "raCC0ons #48",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons48.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "large",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 49,
+   "name": "raCC0ons #49",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons49.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 50,
+   "name": "raCC0ons #50",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons50.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 51,
+   "name": "raCC0ons #51",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons51.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "rocks",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 52,
+   "name": "raCC0ons #52",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons52.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 53,
+   "name": "raCC0ons #53",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons53.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "log",
+    },
+    {
+      "trait_type": "special",
+      "value": "laser eyes",
+    },
+    {
+      "trait_type": "size",
+      "value": "large",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 54,
+   "name": "raCC0ons #54",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons54.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "baby"
+   }
+ ]
+},
+ {
+   "id": 55,
+   "name": "raCC0ons #55",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons55.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 56,
+   "name": "raCC0ons #56",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons56.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "smoking",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 57,
+   "name": "raCC0ons #57",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons57.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 58,
+   "name": "raCC0ons #58",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons58.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 59,
+   "name": "raCC0ons #59",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons59.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 60,
+   "name": "raCC0ons #60",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons60.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 61,
+   "name": "raCC0ons #61",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons61.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 62,
+   "name": "raCC0ons #62",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons62.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "baby"
+   }
+ ]
+},
+ {
+   "id": 63,
+   "name": "raCC0ons #63",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons63.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "upright",
+    },
+    {
+      "trait_type": "environment",
+      "value": "snow",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 64,
+   "name": "raCC0ons #64",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons64.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "rainbow puke",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 65,
+   "name": "raCC0ons #65",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons65.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 66,
+   "name": "raCC0ons #66",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons66.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "tongue out",
+    },
+    {
+      "trait_type": "type",
+      "value": "zombie",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 67,
+   "name": "raCC0ons #67",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons67.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 68,
+   "name": "raCC0ons #68",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons68.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 69,
+   "name": "raCC0ons #69",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons69.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 70,
+   "name": "raCC0ons #70",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons70.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "log",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 71,
+   "name": "raCC0ons #71",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons71.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "log",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 72,
+   "name": "raCC0ons #72",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons72.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "log",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 73,
+   "name": "raCC0ons #73",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons73.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 74,
+   "name": "raCC0ons #74",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons74.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 75,
+   "name": "raCC0ons #75",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons75.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "snow",
+    },
+    {
+      "trait_type": "special",
+      "value": "purple cap",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 76,
+   "name": "raCC0ons #76",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons76.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 77,
+   "name": "raCC0ons #77",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons77.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 78,
+   "name": "raCC0ons #78",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons78.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "upright",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 79,
+   "name": "raCC0ons #79",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons79.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 80,
+   "name": "raCC0ons #80",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons80.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "open",
+    },
+    {
+      "trait_type": "type",
+      "value": "twins",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 81,
+   "name": "raCC0ons #81",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons81.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "large",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 82,
+   "name": "raCC0ons #82",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons82.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 83,
+   "name": "raCC0ons #83",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons83.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 84,
+   "name": "raCC0ons #84",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons84.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 85,
+   "name": "raCC0ons #85",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons85.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "trash panda",
+    },
+    {
+      "trait_type": "environment",
+      "value": "trash",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 86,
+   "name": "raCC0ons #86",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons86.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "baby"
+   }
+ ]
+},
+ {
+   "id": 87,
+   "name": "raCC0ons #87",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons87.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 88,
+   "name": "raCC0ons #88",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons88.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "rocks",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 89,
+   "name": "raCC0ons #89",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons89.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 90,
+   "name": "raCC0ons #90",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons90.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 91,
+   "name": "raCC0ons #91",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons91.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "triplets",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 92,
+   "name": "raCC0ons #92",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons92.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 93,
+   "name": "raCC0ons #93",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons93.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "zombie",
+    },
+    {
+      "trait_type": "environment",
+      "value": "other",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 94,
+   "name": "raCC0ons #94",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons94.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "small",
+    },
+    {
+      "trait_type": "age",
+      "value": "baby"
+   }
+ ]
+},
+ {
+   "id": 95,
+   "name": "raCC0ons #95",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons95.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 96,
+   "name": "raCC0ons #96",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons96.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "dirt",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 97,
+   "name": "raCC0ons #97",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons97.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "grass",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 98,
+   "name": "raCC0ons #98",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons98.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "tree",
+    },
+    {
+      "trait_type": "special",
+      "value": "noun glasses",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+},
+ {
+   "id": 99,
+   "name": "raCC0ons #99",
+   "description": "Raccoons in the public domain.",
+   "image": "https://racc0ons.com/images/raCC0ons99.jpg",
+   "external_url": "https://racc0ons.com",
+   "attributes": [
+     {
+      "trait_type": "mouth",
+      "value": "closed",
+    },
+    {
+      "trait_type": "type",
+      "value": "normal",
+    },
+    {
+      "trait_type": "environment",
+      "value": "water",
+    },
+    {
+      "trait_type": "special",
+      "value": "",
+    },
+    {
+      "trait_type": "size",
+      "value": "medium",
+    },
+    {
+      "trait_type": "age",
+      "value": "adult"
+   }
+ ]
+}
+]
