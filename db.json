@@ -8,23 +8,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -41,23 +41,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -74,23 +74,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "rocks",
+      "value": "rocks"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -107,23 +107,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "log",
+      "value": "log"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -140,23 +140,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -173,23 +173,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -206,23 +206,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "selfie",
+      "value": "selfie"
     },
     {
       "trait_type": "environment",
-      "value": "human",
+      "value": "human"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -239,23 +239,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -272,23 +272,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "snow",
+      "value": "snow"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -305,23 +305,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -338,23 +338,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "tongue out",
+      "value": "tongue out"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -371,23 +371,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -404,23 +404,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -437,23 +437,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -470,23 +470,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -503,23 +503,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -536,23 +536,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -569,23 +569,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -602,23 +602,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -635,23 +635,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -668,23 +668,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "log",
+      "value": "log"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -701,23 +701,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "tongue out",
+      "value": "tongue out"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "rocks",
+      "value": "rocks"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -734,23 +734,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -767,23 +767,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "tongue out",
+      "value": "tongue out"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -800,23 +800,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -833,23 +833,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "human",
+      "value": "human"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -866,23 +866,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "upright",
+      "value": "upright"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -900,23 +900,23 @@
    [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -933,23 +933,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -966,23 +966,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -999,23 +999,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1032,23 +1032,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1065,23 +1065,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1098,23 +1098,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1131,23 +1131,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1164,23 +1164,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "rocks",
+      "value": "rocks"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1197,23 +1197,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "tongue out",
+      "value": "tongue out"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1230,23 +1230,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1263,23 +1263,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1296,23 +1296,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1329,23 +1329,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1362,23 +1362,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "tongue out",
+      "value": "tongue out"
     },
     {
       "trait_type": "type",
-      "value": "red panda",
+      "value": "red panda"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1395,23 +1395,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -1428,23 +1428,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -1461,23 +1461,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "large",
+      "value": "large"
     },
     {
       "trait_type": "age",
@@ -1494,23 +1494,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "road",
+      "value": "road"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1527,23 +1527,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1560,23 +1560,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1593,23 +1593,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "large",
+      "value": "large"
     },
     {
       "trait_type": "age",
@@ -1626,23 +1626,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1659,23 +1659,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1692,23 +1692,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "rocks",
+      "value": "rocks"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1725,23 +1725,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1758,23 +1758,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "log",
+      "value": "log"
     },
     {
       "trait_type": "special",
-      "value": "laser eyes",
+      "value": "laser eyes"
     },
     {
       "trait_type": "size",
-      "value": "large",
+      "value": "large"
     },
     {
       "trait_type": "age",
@@ -1791,23 +1791,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -1824,23 +1824,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1857,23 +1857,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "smoking",
+      "value": "smoking"
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1890,23 +1890,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1923,23 +1923,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1956,23 +1956,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -1989,23 +1989,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -2022,23 +2022,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2055,23 +2055,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -2088,23 +2088,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "upright",
+      "value": "upright"
     },
     {
       "trait_type": "environment",
-      "value": "snow",
+      "value": "snow"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2121,23 +2121,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "rainbow puke",
+      "value": "rainbow puke"
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2154,23 +2154,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2187,23 +2187,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "tongue out",
+      "value": "tongue out"
     },
     {
       "trait_type": "type",
-      "value": "zombie",
+      "value": "zombie"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2220,23 +2220,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2253,23 +2253,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2286,23 +2286,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2319,23 +2319,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "log",
+      "value": "log"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2352,23 +2352,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "log",
+      "value": "log"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2385,23 +2385,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "log",
+      "value": "log"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2418,23 +2418,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2451,23 +2451,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2484,23 +2484,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "snow",
+      "value": "snow"
     },
     {
       "trait_type": "special",
-      "value": "purple cap",
+      "value": "purple cap"
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2517,23 +2517,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2550,23 +2550,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2583,23 +2583,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "upright",
+      "value": "upright"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2616,23 +2616,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2649,23 +2649,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "open",
+      "value": "open"
     },
     {
       "trait_type": "type",
-      "value": "twins",
+      "value": "twins"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2682,23 +2682,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "large",
+      "value": "large"
     },
     {
       "trait_type": "age",
@@ -2715,23 +2715,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2748,23 +2748,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2781,23 +2781,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2814,23 +2814,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "trash panda",
+      "value": "trash panda"
     },
     {
       "trait_type": "environment",
-      "value": "trash",
+      "value": "trash"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2847,23 +2847,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -2880,23 +2880,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2913,23 +2913,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "rocks",
+      "value": "rocks"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2946,23 +2946,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -2979,23 +2979,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3012,23 +3012,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "triplets",
+      "value": "triplets"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3045,23 +3045,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3078,23 +3078,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "zombie",
+      "value": "zombie"
     },
     {
       "trait_type": "environment",
-      "value": "other",
+      "value": "other"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3111,23 +3111,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "small",
+      "value": "small"
     },
     {
       "trait_type": "age",
@@ -3144,23 +3144,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3177,23 +3177,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "dirt",
+      "value": "dirt"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3210,23 +3210,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "grass",
+      "value": "grass"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3243,23 +3243,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "tree",
+      "value": "tree"
     },
     {
       "trait_type": "special",
-      "value": "noun glasses",
+      "value": "noun glasses"
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
@@ -3276,23 +3276,23 @@
    "attributes": [
      {
       "trait_type": "mouth",
-      "value": "closed",
+      "value": "closed"
     },
     {
       "trait_type": "type",
-      "value": "normal",
+      "value": "normal"
     },
     {
       "trait_type": "environment",
-      "value": "water",
+      "value": "water"
     },
     {
       "trait_type": "special",
-      "value": "",
+      "value": ""
     },
     {
       "trait_type": "size",
-      "value": "medium",
+      "value": "medium"
     },
     {
       "trait_type": "age",
